@@ -191,7 +191,10 @@ export async function buildClientConfig(
   if (connection.type === "directTcp") {
     return {
       ...base,
-      url: buildDaemonWebSocketUrl(connection.endpoint, { useTls: connection.useTls ?? false }),
+      url: buildDaemonWebSocketUrl(connection.endpoint, {
+        useTls: connection.useTls ?? false,
+        basePath: connection.basePath,
+      }),
     };
   }
 
