@@ -1,0 +1,118 @@
+{
+  "pc-1440-light": {
+    "title": "Paseo",
+    "icons": [
+      [
+        "manifest",
+        "/manifest.json"
+      ],
+      [
+        "apple-touch-icon",
+        "/apple-touch-icon.png"
+      ],
+      [
+        "icon",
+        "/assets/assets/images/favicon-light.c6da6281bf5f70d5df2b388e82fd5664.png"
+      ]
+    ],
+    "logoImgs": [
+      "http://127.0.0.1:17791/assets/assets/images/aether-mark.111bcc5a2173c17683af7a125e8bdfda.png",
+      "http://127.0.0.1:17791/assets/assets/images/aether-mark.111bcc5a2173c17683af7a125e8bdfda.png"
+    ],
+    "testids": [
+      "open-project-submit",
+      "open-project-import-session",
+      "open-project-setup-providers",
+      "onboarding-modal"
+    ],
+    "console_errors": []
+  },
+  "pc-1440-dark": {
+    "title": "Paseo",
+    "icons": [
+      [
+        "manifest",
+        "/manifest.json"
+      ],
+      [
+        "apple-touch-icon",
+        "/apple-touch-icon.png"
+      ],
+      [
+        "icon",
+        "/assets/assets/images/favicon-dark.c6da6281bf5f70d5df2b388e82fd5664.png"
+      ]
+    ],
+    "logoImgs": [
+      "http://127.0.0.1:17791/assets/assets/images/aether-mark.111bcc5a2173c17683af7a125e8bdfda.png",
+      "http://127.0.0.1:17791/assets/assets/images/aether-mark.111bcc5a2173c17683af7a125e8bdfda.png"
+    ],
+    "testids": [
+      "open-project-submit",
+      "open-project-import-session",
+      "open-project-setup-providers",
+      "onboarding-modal"
+    ],
+    "console_errors": []
+  },
+  "phone-390-light": {
+    "title": "Paseo",
+    "icons": [
+      [
+        "manifest",
+        "/manifest.json"
+      ],
+      [
+        "apple-touch-icon",
+        "/apple-touch-icon.png"
+      ],
+      [
+        "icon",
+        "/assets/assets/images/favicon-light.c6da6281bf5f70d5df2b388e82fd5664.png"
+      ]
+    ],
+    "logoImgs": [
+      "http://127.0.0.1:17791/assets/assets/images/aether-mark.111bcc5a2173c17683af7a125e8bdfda.png",
+      "http://127.0.0.1:17791/assets/assets/images/aether-mark.111bcc5a2173c17683af7a125e8bdfda.png"
+    ],
+    "testids": [
+      "open-project-submit",
+      "open-project-import-session",
+      "open-project-setup-providers",
+      "onboarding-modal"
+    ],
+    "console_errors": []
+  },
+  "phone-390-dark": {
+    "title": "Paseo",
+    "icons": [
+      [
+        "manifest",
+        "/manifest.json"
+      ],
+      [
+        "apple-touch-icon",
+        "/apple-touch-icon.png"
+      ],
+      [
+        "icon",
+        "/assets/assets/images/favicon-dark.c6da6281bf5f70d5df2b388e82fd5664.png"
+      ]
+    ],
+    "logoImgs": [
+      "http://127.0.0.1:17791/assets/assets/images/aether-mark.111bcc5a2173c17683af7a125e8bdfda.png",
+      "http://127.0.0.1:17791/assets/assets/images/aether-mark.111bcc5a2173c17683af7a125e8bdfda.png"
+    ],
+    "testids": [
+      "open-project-submit",
+      "open-project-import-session",
+      "open-project-setup-providers",
+      "onboarding-modal"
+    ],
+    "console_errors": []
+  },
+  "manifest_icons": [
+    "/pwa-icon-192.png",
+    "/pwa-icon-512.png"
+  ]
+}
